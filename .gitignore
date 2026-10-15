@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Your recordings and generated data (large, personal)
+data/
+bot_games/
+dataset.npz
+*.npz
+
+# Bot output
+debug_*.png
+stuck_*.png
+runs_log.csv
+filter_check.png
+
+# Local leftovers
+_extra/

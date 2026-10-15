@@ -1,0 +1,7 @@
+numpy
+opencv-python
+mss
+pygetwindow
+pynput
+torch
+torchvision
