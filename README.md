@@ -63,6 +63,11 @@ confidence between left and right (it did this near shiny obstacles and then did
   single-frame model seems to have reached its ceiling.
 - Detecting the chasing guard by dark pixels failed: the black train looks the same.
 
+> [!NOTE]
+> This is a research/learning project, not a plug-and-play tool. The model, templates and
+> click coordinates are tuned to one BlueStacks window size (441x784). On another setup you
+> will need to adjust the CONFIG values and, most likely, record your own data and retrain.
+
 ## Setup (Windows only)
 
 ```
